@@ -8,10 +8,3 @@ instances of prime numbers under a user entered integer.
 It was developed in IntelliJ IDEA with Java 12. It was developed along side a set of
 psuedocode instructions detailing the "Sieve of Eratosthenes" algorithm, this psuedocode
 was provided by my instructor but is also available on wikipedia.
-
-##Information
-
-**Author:** Tobias Ellis
-**Course Number:** CS3345.005 ( Data Structures & Algorithms )
-**Instructor:** Sruthi Chappidi
-**School:** University of Texas at Dallas
