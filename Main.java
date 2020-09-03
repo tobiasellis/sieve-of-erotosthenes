@@ -1,6 +1,4 @@
 // Author: Tobias Ellis
-// Course: CS 3345.005
-// Instructor: Sruthi Chappidi
 // Description: Simple java project designed to find all instances
 //              of a prime number under a user defined constraint
 //              using the "Sieve of Eratosthenes" algorithm.
